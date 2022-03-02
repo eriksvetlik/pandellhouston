@@ -2,20 +2,16 @@
 
 # Description
 
-In this assessment, our task was to create a simple calendar application powered by jQuery that allows a user to save events for each business hour of the day.
+In this assessment, our task was to create an application that generates a list of 10,000 numbers in random order each time it is run. Each number in the list must be unique and be between 1 and 10,000 (inclusive).
 
-When the user loads the application, the time and date are generated at the top using Moment.js.
-
-As the user scrolls down the application, blocks for each business hour are color coded depending on if they are past, present or future compared to the current hour.
-
-The user is able to add/edit/delete content in each hour block, where then the content is saved to local storage when the user selects the Save button. If the user refreshes the page, the saved content persists.
+The user is able to select the **Reload Numbers** button to generate new numbers.
 
 HTML | CSS | Javascript
 
 # Screenshot
 
-![Screenshot of webpage](./images/homework-readme.png)
+![Screenshot of webpage](./images/readme.png)
 
 # Link
 
-(https://eriksvetlik.github.io/workdayscheduler/)
+(https://eriksvetlik.github.io/pandellhouston/)
